@@ -1,0 +1,29 @@
+aviso rápido:
+
+precisa do python 3.7.6, só funciona aí então abra o "baixar.bat"
+
+segunda coisa, o comando pra atacar é .s se quiser mudar, abra o código
+aperte Control + F e cole isso: async def s(ctx):
+altere só o "s" e coloque qualquer coisa
+
+terceira coisa, o prefixo é um ponto (.), mude isso na linha 16 do código ou faça como
+expliquei acima, Control + F e cole isso: client = commands.Bot(command_prefix=".")
+
+
+
+
+-------------NÃO SE ESQUEÇA DE BOTAR O TOKEN DO SEU BOT!-------------
+
+
+
+
+primeiro abra o arquivo "baixar.bat" pra baixar o python 3.7.6 (só funciona nessa versão)
+
+depois, na linha 11 do código, mude seu token, se quiser editar o código completo
+pode também, mas só mude as coisas que tiver meu nome e coloque o seu, ou não irá
+funcionar!
+
+depois que editar tudo e ja tiver baixado o python 3.7.6, clique em "start.bat"
+irá ligar sozinho!
+
+código criado por mim!
